@@ -1,5 +1,5 @@
-# Brainwave_Matrix_Intern
 Relational Database Library Management System 
+
 Introduction
 The Library Management System is a project designed to help libraries manage their operations effectively. It handles tasks such as managing books, authors, members, and staff, tracking book issues and returns, processing fines, and handling book requests.
 
