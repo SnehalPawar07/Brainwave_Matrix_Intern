@@ -37,4 +37,9 @@ tbl_fine_payment: Records fine payments made by members.
 tbl_book_request_status: Stores the status of book requests (e.g., available, on request).
 tbl_book_request: Tracks book requests by members.
 Prerequisites
+Prerequisites
+To set up this system, you need:
+
+MySQL (or any other SQL-based database management system).
+A SQL client like MySQL Workbench, phpMyAdmin, or Command Line to run the SQL queries.
 
